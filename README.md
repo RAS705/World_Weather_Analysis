@@ -43,3 +43,5 @@ If the end user enters a minimum temperature of 55 and a maximum of 77 they get 
 After the list of hotels are produced, a map is built utilizing Google's Map API. On this map the selected cities are mapped, and on each city a marker is built to show the end user the weather data about the ciy and the hotel we found. An example of looks like the following:
 
 ![](weather_data/weather_data_hotel_marker.png)
+
+
